@@ -11,6 +11,6 @@ The aim of this experiment was to investigate the current against voltage graphs
 * Data visualisation using matplotlib
 
 ## Files 
-* Low Temperature Resistance Lab Script.pdf contains a breif outline of the experiment given to me before I started.
+* Low Temperature Resistance Lab Script.pdf contains a brief outline of the experiment given to me before I started.
 * Low Temperature Resistance Notebook.pdf contains my handwritten notes from during the experiment including a schematic diagram, key figures, snippets of the recorded data, calculations, data analysis and conclusions.
 * Low Temperature Resistance Lab Report.pdf contains my written up lab report from after the experiment.
